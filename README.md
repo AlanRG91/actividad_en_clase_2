@@ -15,3 +15,4 @@ El programa genera un número aleatorio entre 1 y 10 y pide al usuario que inten
 ## 💻 Ejecución
 Para correr el código, utiliza:
 ```bash
+python adivinanza.py
